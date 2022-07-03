@@ -22,6 +22,7 @@ def generate_account():
     # Fetch mnemonic from environment variable.
     mnemonic = os.getenv("MNEMONIC")
 
+
     # Create Wallet Object
     wallet = Wallet(mnemonic)
 

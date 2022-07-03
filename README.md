@@ -108,6 +108,30 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
+
+# Results 
+
+Streamlit startup. 
+![](Images/streamlit_startup.png)
+
+Selecting who to hire and the hours to hire them for.
+![](Images/select_person_numhrs.png)
+
+Validate the transaction.
+![](Images/transaction_validated.png)
+
+Wallet Balance and Transaction Count.
+![](Images/address_eth_tx_count.png)
+
+Transaction Details.
+![](Images/transactions.png)
+
+The address the eth was sent to.
+![](Images/to_address.png)
+
+
+
+
 ---
 
 ## Submission
